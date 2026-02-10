@@ -18,7 +18,7 @@
 
 > ⚡ **Conceito API:** Eu chamo essa abordagem de *"Ação Preventiva Imediata"*.
 
-[Demonstração](#-demonstração-prática-fluxo-de-operação) • [Instalação](#-instalação-e-configuração) • [Roadmap](#-visão-de-futuro-e-roadmap-profissional)
+[Demonstração](#demo) • [Instalação](#install) • [Roadmap](#roadmap)
 
 </div>
 
@@ -58,6 +58,7 @@ O projeto utiliza uma arquitetura de microsserviços containerizados. Abaixo, o 
 
 ---
 
+<a id="demo"></a>
 ##  Demonstração Prática (Fluxo de Operação)
 
 O Sentinel SOC Automator transforma eventos complexos de segurança em decisões simples.
@@ -86,6 +87,7 @@ O Sentinel SOC Automator transforma eventos complexos de segurança em decisões
 
 ---
 
+<a id="install"></a>
 ##  Instalação e Configuração
 
 ### Pré-requisitos
@@ -123,6 +125,7 @@ python fix_wazuh.py
 
 ---
 
+<a id="roadmap"></a>
 ##  Visão de Futuro e Roadmap Profissional
 
 Este projeto foi desenhado para ser a base de um ecossistema de segurança distribuído.
