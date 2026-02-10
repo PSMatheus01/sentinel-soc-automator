@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}"
+    ],
+    "python.analysis.importFormat": "absolute",
+    "python.analysis.typeCheckingMode": "basic"
+}
